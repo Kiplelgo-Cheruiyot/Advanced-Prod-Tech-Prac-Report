@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.30)  10 JUN 2022 11:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.30)  10 JUN 2022 11:33
 entering extended mode
 **./Main_file.tex
 (Main_file.tex
@@ -526,44 +526,23 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 <special> ps:tx@Dict begin  gsave STV CP T /ps@rot 0 def grestore  end
 {C:/Users/Bernie K. Cheruiyot/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <.
-/Figures/JKUAT_logo.png>] (Files/Declaration.tex) [1] (Main_file.toc
-LaTeX Font Info:    Trying to load font information for U+msa on input line 1.
+/Figures/JKUAT_logo.png>] (Files/Introduction.tex) [1
+
+] (Files/Chapter2.tex
+LaTeX Font Info:    Trying to load font information for U+msa on input line 12.
+
 
 (C:\Users\Bernie K. Cheruiyot\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\
 umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 1.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 12.
+
 
 (C:\Users\Bernie K. Cheruiyot\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\
 umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-))
-\tf@toc=\write4
-\openout4 = `Main_file.toc'.
-
- [2
-
-] (Main_file.lof)
-\tf@lof=\write5
-\openout5 = `Main_file.lof'.
-
- [3
-
-] (Main_file.lot)
-\tf@lot=\write6
-\openout6 = `Main_file.lot'.
-
- [4
-
-]
-(Files/List of Abbreviations.tex) (Files/Abstract.tex) [5
-
-
-]
-(Files/Introduction.tex) [1
-
-] (Files/Chapter2.tex [2
+) [2
 
 ]
 
@@ -571,8 +550,10 @@ LaTeX Warning: Reference `fig:drei_arm' on page 3 undefined on input line 71.
 
 ) [3] (Files/Chapter3.tex) [4
 
-] (Main_file.bbl) [5
+] (Files/Chapter4.tex) [5
 
+] (Main_file.bbl)
+[6
 
 
 ] (Main_file.aux)
@@ -581,10 +562,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 12419 strings out of 478681
- 225281 string characters out of 2839862
+ 12388 strings out of 478681
+ 224187 string characters out of 2839862
  522120 words of memory out of 3000000
- 30333 multiletter control sequences out of 15000+600000
+ 30317 multiletter control sequences out of 15000+600000
  413997 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,15n,63p,580b,397s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -602,12 +583,13 @@ ruiyot/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmib10.pfb
 TeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Bernie K. Cheruiyot/AppD
 ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Ber
 nie K. Cheruiyot/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
-msy10.pfb><C:/Users/Bernie K. Cheruiyot/AppData/Local/Programs/MiKTeX/fonts/typ
-e1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Bernie K. Cheruiyot/AppData/Local/Pro
-grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Main_file.pdf (11 pages, 220467 bytes).
+msl12.pfb><C:/Users/Bernie K. Cheruiyot/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Bernie K. Cheruiyot/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Bernie K. Cher
+uiyot/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on Main_file.pdf (7 pages, 230134 bytes).
 PDF statistics:
- 104 PDF objects out of 1000 (max. 8388607)
+ 97 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
