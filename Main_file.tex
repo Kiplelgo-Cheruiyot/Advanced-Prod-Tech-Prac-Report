@@ -4,11 +4,12 @@
 \usepackage{psfrag}
 \usepackage{amsmath}                     % \boldsymbol{#1}
 \usepackage{amssymb}
-\usepackage{hangcaption}
-\usepackage{Styles/pstricks}
-\usepackage{Styles/pst-node}
+\usepackage{caption}
+\usepackage{pstricks}
+\usepackage{pst-node}
 \usepackage{Styles/fancyheadings}
 \usepackage{tocloft}
+\usepackage{lscape}
 %-----Tex width---------------------------------
 \textwidth 16cm
 
@@ -73,7 +74,7 @@
       \vspace*{-4.0cm}
     \begin{figure}[!h]
 \centering
-\includegraphics[width=0.3\linewidth]{Figures/JKUAT_logo}
+\includegraphics[width=0.3 \linewidth] {Figures/JKUAT_logo}
 %\caption{}
 \label{fig:jomologo}
 \end{figure}
@@ -83,15 +84,15 @@
    \large{Department of Mechatronic Engineering}\\
 
     ------------------------------------------------------------------------------------------------\\[1.0cm]
-    \LARGE{\textbf{Designing a wall-climbing robot\ldots\ldots}}\\[0.6cm]
-    \LARGE{\textbf{Final year project (FYP 13-11)
+    \LARGE{\textbf{Design of a Pan-Tilt Teleoperated Camera Mount}}\\[0.6cm]
+    \LARGE{\textbf{Project Proposal Abstract
             }}\\[1.5cm]
     %\large{by}\\[0.6cm
 
     \vspace{0.5cm}
-    \large{\textbf{Theodore Kamau (EN292-2025/2012)
+    \large{\textbf{Bernie Kiplelgo Cheruiyot (ENM221-0054/2017)
             }}\\
-     \large{\textbf{Lisa Kimondo~(EN292-2020/2012)
+     \large{\textbf{Mogire Earl Spencer (ENM221-0077/2017)
             }}\\[1.0cm]
 %     \large{\textbf{Supervisors}}\\
 %    \large{Dr.-Ing.~Jackson G. Njiri}\\
@@ -106,25 +107,28 @@
 
 \input{Files/Declaration}
 \clearpage
+\addcontentsline{toc}{section}{Table of Contents}
 \tableofcontents
 \clearpage
-\addcontentsline{toc}{section}{Table of Contents}
 \addcontentsline{toc}{section}{List of Figures}
-{%
+
 \let\oldnumberline\numberline%
 \renewcommand{\numberline}{\figurename~\oldnumberline}%
+\lhead{\textit{LIST OF FIGURES}}
 \listoffigures
 \clearpage
+\lhead{\textit{LIST OF TABLES}}
+\renewcommand{\numberline}{\tablename~\oldnumberline}%
 \addcontentsline{toc}{section}{List of Tables}
 \listoftables
 \newpage
 \clearpage
-\addcontentsline{toc}{section}{List of Abbreviations}
+\input{Files/List of Abbreviations}
 \clearpage
 \newpage
 
-\newpage
 \input{Files/Abstract}
+
 \clearpage
 \pagenumbering{arabic}
   \input{Files/Introduction}
@@ -133,7 +137,9 @@
   \clearpage
     \input{Files/Chapter3}
   \clearpage
-    \input{Files/Chapter4}
+%    \input{Files/Chapter4}
+  \clearpage
+%    \input{Files/Chapter5}
 %  \clearpage
 %  \input{Files/Summary}
   \clearpage
@@ -142,7 +148,7 @@
 \addcontentsline{toc}{section}{References}            % Literaturverzeichnis ins Inhaltsverzeichnis
 \bibliographystyle{Bib/IEEEtran}
 \bibliography{Bib/References}                         % BIBTeX
-\nocite{Lun01} 
+% \nocite{Lun01} 
 
                                      % Falls etwas in die Literaturliste soll, was nicht Referenziert wird
 \end{document}

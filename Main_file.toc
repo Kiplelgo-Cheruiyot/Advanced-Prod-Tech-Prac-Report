@@ -1,5 +1,5 @@
 \contentsline {section}{Declaration}{I}{}%
-\contentsline {section}{Table of Contents}{III}{}%
+\contentsline {section}{Table of Contents}{II}{}%
 \contentsline {section}{List of Figures}{III}{}%
 \contentsline {section}{List of Tables}{IV}{}%
 \contentsline {section}{List of Abbreviations}{V}{}%
@@ -13,5 +13,4 @@
 \contentsline {subsection}{\numberline {2.1}Name of a subsection}{3}{}%
 \contentsline {subsection}{\numberline {2.2}Another subsection}{3}{}%
 \contentsline {section}{\numberline {3}Methodology\ldots }{4}{}%
-\contentsline {section}{\numberline {4}Expected Outcomes}{5}{}%
-\contentsline {section}{References}{6}{}%
+\contentsline {section}{References}{5}{}%
