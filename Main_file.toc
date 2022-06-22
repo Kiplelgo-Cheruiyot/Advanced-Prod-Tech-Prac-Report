@@ -10,7 +10,10 @@
 \contentsline {section}{\numberline {2.2}Technologies Associated with AM}{4}{}%
 \contentsline {subsection}{\numberline {2.2.1}Reverse Engineering Technology}{4}{}%
 \contentsline {subsection}{\numberline {2.2.2}Computer Aided Engineering}{4}{}%
-\contentsline {subsection}{\numberline {2.2.3}Heptic Based CAD}{4}{}%
-\contentsline {chapter}{\numberline {3}Methodology}{5}{}%
-\contentsline {chapter}{\numberline {4}Results}{6}{}%
-\contentsline {section}{References}{7}{}%
+\contentsline {subsection}{\numberline {2.2.3}Heptic Based CAD}{5}{}%
+\contentsline {section}{\numberline {2.3}Classification of AM Processes}{5}{}%
+\contentsline {chapter}{\numberline {3}Methodology}{7}{}%
+\contentsline {section}{\numberline {3.1}Equipment}{7}{}%
+\contentsline {section}{\numberline {3.2}Procedure}{7}{}%
+\contentsline {chapter}{\numberline {4}Results}{10}{}%
+\contentsline {section}{References}{11}{}%

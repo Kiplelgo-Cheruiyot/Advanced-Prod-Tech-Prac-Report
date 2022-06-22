@@ -20,7 +20,48 @@ There are, however, other ways in which the STL files can be generated and other
 technologies that can be used in conjunction with AM technology. These are:
 
 \subsection{Reverse Engineering Technology}
+Reverse Engineering (RE) is the process of
+capturing geometric data from another object, commonly referred to as 3D scanning. These data is initially available “point cloud” form i.e. an unconnected set of points representing the object surfaces. These points need to be connected together
+using RE software like Artec, which may also be used to combine point clouds from different scans and to perform other functions like hole-filling and
+smoothing.
+
+Engineered objects are scanned using laser-scanning or touch probe technology. Objects that have complex internal features or anatomical
+models may make use of Computerized Tomography (CT).
 
 \subsection{Computer Aided Engineering}
+Direct Digital Manufacture, where AM can be used to directly produce
+final products, requires Computer Aided Engineering (CAE) tools to evaluate how these parts
+would perform prior to AM. This ensures that we can build products right the first time as a
+form of Design for Additive Manufacturing (D for AM).
 
 \subsection{Heptic Based CAD}
+CAD modeling systems work
+in a similar way to Freeform modeling systems to
+provide a design environment that is more intuitive than other standard CAD
+systems. They often use a robotic haptic feedback device called the Phantom to provide force feedback relating to the virtual modeling environment. An object can
+be seen on-screen, but also felt in 3D space using the Phantom. The modeling
+environment includes what is known as Virtual Clay that deforms under force
+applied using the haptic cursor. This provides a mechanism for direct interaction
+with the modeling material, much like how a sculptor interacts with actual clay. Basically, this is CAD for non-engineers for non-engineering applcations.
+
+\section{Classification of AM Processes}
+\begin{enumerate}
+\item Vat photopolymerization - processes that utilize a liquid photopolymer that is
+contained in a vat and processed by selectively delivering energy to cure specific
+regions of a part cross-section.
+\item Material extrusion - processes that deposit a material by extruding it through a
+nozzle, typically while scanning the nozzle in a pattern that produces a part
+cross-section.
+\item Material jetting: ink-jet printing processes.
+\item Binder jetting - processes where a binder is printed into a powder bed in order to
+form part cross-sections.
+\item Sheet lamination: processes that deposit a layer of material at a time, where the
+material is in sheet form.
+\item Directed energy deposition - processes that simultaneously deposit a material
+(usually powder or wire) and provide energy to process that material through a
+single deposition device.
+\item Fused Deposition Modeling (FDM).
+\end{enumerate}
+FDM uses a
+heating chamber to liquefy polymer that is fed into the system as a filament. The filament is pushed into the chamber by a tractor wheel arrangement and it is this
+pushing that generates the extrusion pressure. In this practical exercise, FDM was used to come up with a 3D object.
