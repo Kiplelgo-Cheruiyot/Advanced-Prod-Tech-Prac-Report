@@ -1,6 +1,6 @@
 \contentsline {section}{Table of Contents}{I}{}%
-\contentsline {section}{List of Figures}{III}{}%
-\contentsline {section}{List of Tables}{IV}{}%
+\contentsline {section}{List of Figures}{II}{}%
+\contentsline {section}{List of Tables}{III}{}%
 \contentsline {section}{List of Abbreviations}{1}{}%
 \contentsline {chapter}{\numberline {1}Introduction}{1}{}%
 \contentsline {section}{\numberline {1.1}Additive Manufacturing}{1}{}%
@@ -19,4 +19,3 @@
 \contentsline {section}{\numberline {4.1}3D Scanning}{10}{}%
 \contentsline {chapter}{\numberline {5}Discussion}{11}{}%
 \contentsline {section}{\numberline {5.1}3D Scanning}{11}{}%
-\contentsline {section}{References}{13}{}%
