@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.12.1)  26 JUL 2022 00:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.12.1)  26 JUL 2022 00:26
 entering extended mode
 **./Main_file.tex
 (Main_file.tex
@@ -294,27 +294,42 @@ Non-PDF special ignored!
 <special> header=psfrag.pro
 
 {C:/Users/earls/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./Figures/JKUAT
-_logo.png>]
-No file Main_file.toc.
+_logo.png>] (Main_file.toc
+LaTeX Font Info:    Trying to load font information for U+msa on input line 1.
+ (F:\MikTex\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 1.
+
+(F:\MikTex\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
 \tf@toc=\write4
 \openout4 = `Main_file.toc'.
 
-[1]
-No file Main_file.lof.
+ [1] [2] (Main_file.lof)
 \tf@lof=\write5
 \openout5 = `Main_file.lof'.
 
-[2
+ [3
 
 ]
-No file Main_file.lot.
+(Main_file.lot)
 \tf@lot=\write6
 \openout6 = `Main_file.lot'.
 
-[3
+ [4
 
 ] (Files/List of Abbreviations.tex) (Files/Introduction.tex
 Chapter 1.
+
+LaTeX Warning: Citation `edgar2015additive' on page 1 undefined on input line 6
+.
+
+
+LaTeX Warning: Citation `edgar2015additive' on page 1 undefined on input line 1
+4.
+
 [1
 
 
@@ -322,15 +337,28 @@ Chapter 1.
 
 ]) [2] (Files/Chapter2.tex
 Chapter 2.
+
+LaTeX Warning: Citation `edgar2015additive' on page 3 undefined on input line 7
+.
+
+
+LaTeX Warning: Citation `classnotes' on page 3 undefined on input line 9.
+
 [3
 
 
-] [4] [5]) [6] (Files/Chapter3.tex
+]
+
+LaTeX Warning: Citation `edgar2015additive' on page 4 undefined on input line 2
+1.
+
+[4] [5]
+
+LaTeX Warning: Citation `classnotes' on page 6 undefined on input line 68.
+
+) [6] (Files/Chapter3.tex
 Chapter 3.
-
-LaTeX Warning: Reference `fig:3dscan' on page 7 undefined on input line 7.
-
-<Figures/Figure.jpeg, id=38, 963.6pt x 1284.8pt>
+<Figures/Figure.jpeg, id=42, 963.6pt x 1284.8pt>
 File: Figures/Figure.jpeg Graphic file (type jpg)
 <use Figures/Figure.jpeg>
 Package pdftex.def Info: Figures/Figure.jpeg  used on input line 13.
@@ -342,21 +370,16 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 ]
-
-LaTeX Warning: Reference `fig:scanning' on page 8 undefined on input line 20.
-
-<Figures/Figure 2.jpeg, id=42, 963.6pt x 1284.8pt>
+<Figures/Figure 2.jpeg, id=46, 963.6pt x 1284.8pt>
 File: Figures/Figure 2.jpeg Graphic file (type jpg)
 <use Figures/Figure 2.jpeg>
 Package pdftex.def Info: Figures/Figure 2.jpeg  used on input line 31.
 (pdftex.def)             Requested size: 182.09485pt x 242.78143pt.
 
+
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-LaTeX Warning: Reference `fig:scanned' on page 8 undefined on input line 36.
-
-<Figures/Figure 1.jpeg, id=43, 1284.8pt x 737.75626pt>
+<Figures/Figure 1.jpeg, id=47, 1284.8pt x 737.75626pt>
 File: Figures/Figure 1.jpeg Graphic file (type jpg)
 <use Figures/Figure 1.jpeg>
 Package pdftex.def Info: Figures/Figure 1.jpeg  used on input line 40.
@@ -364,15 +387,12 @@ Package pdftex.def Info: Figures/Figure 1.jpeg  used on input line 40.
 [8 <./Figures/Figure.jpeg>]) [9 <./Figures/Figure 2.jpeg> <./Figures/Figure 1.j
 peg>] (Files/Chapter4.tex
 Chapter 4.
-
-LaTeX Warning: Reference `fig:result' on page 10 undefined on input line 4.
-
-<Figures/Result0.jpg, id=51, 4015.0pt x 3011.25pt>
+<Figures/Result0.jpg, id=55, 4015.0pt x 3011.25pt>
 File: Figures/Result0.jpg Graphic file (type jpg)
 <use Figures/Result0.jpg>
 Package pdftex.def Info: Figures/Result0.jpg  used on input line 7.
 (pdftex.def)             Requested size: 170.71652pt x 128.0109pt.
-<Figures/Result1.jpg, id=52, 4015.0pt x 3011.25pt>
+<Figures/Result1.jpg, id=56, 4015.0pt x 3011.25pt>
 File: Figures/Result1.jpg Graphic file (type jpg)
 <use Figures/Result1.jpg>
 Package pdftex.def Info: Figures/Result1.jpg  used on input line 9.
@@ -391,24 +411,22 @@ No file Main_file.bbl.
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 4400 strings out of 478927
- 67836 string characters out of 2869020
- 363143 words of memory out of 3000000
- 22215 multiletter control sequences out of 15000+600000
- 407105 words of font info for 39 fonts, out of 8000000 for 9000
+ 4454 strings out of 478927
+ 68734 string characters out of 2869020
+ 365242 words of memory out of 3000000
+ 22243 multiletter control sequences out of 15000+600000
+ 411804 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,11n,79p,365b,403s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 69i,11n,79p,391b,405s stack positions out of 5000i,500n,10000p,200000b,80000s
 <F:/MikTex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><F:/MikTex/fonts/type1/p
 ublic/amsfonts/cm/cmr10.pfb><F:/MikTex/fonts/type1/public/amsfonts/cm/cmr12.pfb
-><F:/MikTex/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Main_file.pdf (16 pages, 1396935 bytes).
+><F:/MikTex/fonts/type1/public/amsfonts/cm/cmsl12.pfb><F:/MikTex/fonts/type1/pu
+blic/amsfonts/cm/cmti12.pfb>
+Output written on Main_file.pdf (17 pages, 1408398 bytes).
 PDF statistics:
- 80 PDF objects out of 1000 (max. 8388607)
+ 88 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
