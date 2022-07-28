@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.12.1)  26 JUL 2022 01:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.12.1)  28 JUL 2022 13:17
 entering extended mode
 **./Main_file.tex
 (Main_file.tex
 LaTeX2e <2021-06-01> patch level 1
-L3 programming layer <2021-08-27> (F:\MikTex\tex/latex/base\report.cls
-Document Class: report 2021/02/12 v1.4n Standard LaTeX document class
+L3 programming layer <2021-08-27> (F:\MikTex\tex/latex/base\article.cls
+Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
 (F:\MikTex\tex/latex/base\fleqn.clo
 File: fleqn.clo 2016/12/29 v1.2b Standard LaTeX option (flush left equations)
 \mathindent=\skip47
@@ -18,14 +18,13 @@ Already applied: [0000/00/00] Make \] robust on input line 83.
 File: size12.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count182
-\c@chapter=\count183
-\c@section=\count184
-\c@subsection=\count185
-\c@subsubsection=\count186
-\c@paragraph=\count187
-\c@subparagraph=\count188
-\c@figure=\count189
-\c@table=\count190
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen138
@@ -73,27 +72,27 @@ Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
 \caption@hangindent=\dimen148
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count191
-\c@continuedfloat=\count192
+\c@caption@flags=\count190
+\c@continuedfloat=\count191
 )
-\c@KVtest=\count193
+\c@KVtest=\count192
 \sf@farskip=\skip50
 \sf@captopadj=\dimen149
 \sf@capskip=\skip51
 \sf@nearskip=\skip52
-\c@subfigure=\count194
-\c@subfigure@save=\count195
-\c@lofdepth=\count196
-\c@subtable=\count197
-\c@subtable@save=\count198
-\c@lotdepth=\count199
+\c@subfigure=\count193
+\c@subfigure@save=\count194
+\c@lofdepth=\count195
+\c@subtable=\count196
+\c@subtable@save=\count197
+\c@lotdepth=\count198
 \sf@top=\skip53
 \sf@bottom=\skip54
 )
 (F:\MikTex\tex/latex/psfrag\psfrag.sty
 Package: psfrag 1998/04/11 v3.04 PSfrag (MCG)
-\pfg@pcount=\count266
-\pfg@scount=\count267
+\pfg@pcount=\count199
+\pfg@scount=\count266
 \pfg@temp=\write3
 )
 (F:\MikTex\tex/latex/amsmath\amsmath.sty
@@ -116,13 +115,13 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 (F:\MikTex\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count268
+\inf@bad=\count267
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count269
-\leftroot@=\count270
+\uproot@=\count268
+\leftroot@=\count269
 LaTeX Info: Redefining \overline on input line 399.
-\classnum@=\count271
-\DOTSCASE@=\count272
+\classnum@=\count270
+\DOTSCASE@=\count271
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
@@ -131,15 +130,15 @@ LaTeX Info: Redefining \cdots on input line 620.
 \big@size=\dimen152
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count273
-\c@MaxMatrixCols=\count274
+\macc@depth=\count272
+\c@MaxMatrixCols=\count273
 \dotsspace@=\muskip16
-\c@parentequation=\count275
-\dspbrk@lvl=\count276
+\c@parentequation=\count274
+\dspbrk@lvl=\count275
 \tag@help=\toks18
-\row@=\count277
-\column@=\count278
-\maxfields@=\count279
+\row@=\count276
+\column@=\count277
+\maxfields@=\count278
 \andhelp@=\toks19
 \eqnshift@=\dimen153
 \alignsep@=\dimen154
@@ -174,36 +173,33 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 )
 (F:\MikTex\tex/latex/tocloft\tocloft.sty
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
-Package tocloft Info: The document has chapter divisions on input line 51.
+Package tocloft Info: The document has section divisions on input line 51.
 \cftparskip=\skip58
 \cftbeforetoctitleskip=\skip59
 \cftaftertoctitleskip=\skip60
 \cftbeforepartskip=\skip61
 \cftpartnumwidth=\skip62
 \cftpartindent=\skip63
-\cftbeforechapskip=\skip64
-\cftchapindent=\skip65
-\cftchapnumwidth=\skip66
-\cftbeforesecskip=\skip67
-\cftsecindent=\skip68
-\cftsecnumwidth=\skip69
-\cftbeforesubsecskip=\skip70
-\cftsubsecindent=\skip71
-\cftsubsecnumwidth=\skip72
-\cftbeforesubsubsecskip=\skip73
-\cftsubsubsecindent=\skip74
-\cftsubsubsecnumwidth=\skip75
-\cftbeforeparaskip=\skip76
-\cftparaindent=\skip77
-\cftparanumwidth=\skip78
-\cftbeforesubparaskip=\skip79
-\cftsubparaindent=\skip80
-\cftsubparanumwidth=\skip81
-\cftbeforeloftitleskip=\skip82
-\cftafterloftitleskip=\skip83
-\cftbeforefigskip=\skip84
-\cftfigindent=\skip85
-\cftfignumwidth=\skip86
+\cftbeforesecskip=\skip64
+\cftsecindent=\skip65
+\cftsecnumwidth=\skip66
+\cftbeforesubsecskip=\skip67
+\cftsubsecindent=\skip68
+\cftsubsecnumwidth=\skip69
+\cftbeforesubsubsecskip=\skip70
+\cftsubsubsecindent=\skip71
+\cftsubsubsecnumwidth=\skip72
+\cftbeforeparaskip=\skip73
+\cftparaindent=\skip74
+\cftparanumwidth=\skip75
+\cftbeforesubparaskip=\skip76
+\cftsubparaindent=\skip77
+\cftsubparanumwidth=\skip78
+\cftbeforeloftitleskip=\skip79
+\cftafterloftitleskip=\skip80
+\cftbeforefigskip=\skip81
+\cftfigindent=\skip82
+\cftfignumwidth=\skip83
 
 
 ! LaTeX Error: Command \c@lofdepth already defined.
@@ -233,14 +229,14 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-\cftbeforelottitleskip=\skip87
-\cftafterlottitleskip=\skip88
-\cftbeforetabskip=\skip89
-\cfttabindent=\skip90
-\cfttabnumwidth=\skip91
+\cftbeforelottitleskip=\skip84
+\cftafterlottitleskip=\skip85
+\cftbeforetabskip=\skip86
+\cfttabindent=\skip87
+\cfttabnumwidth=\skip88
 ) (F:\MikTex\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count280
+\l__color_backend_stack_int=\count279
 \l__pdf_internal_box=\box52
 ) (Main_file.aux)
 \openout1 = `Main_file.aux'.
@@ -262,16 +258,16 @@ LaTeX Font Info:    ... okay on input line 74.
 
 (F:\MikTex\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count281
+\scratchcounter=\count280
 \scratchdimen=\dimen165
 \scratchbox=\box53
-\nofMPsegments=\count282
-\nofMParguments=\count283
+\nofMPsegments=\count281
+\nofMParguments=\count282
 \everyMPshowfont=\toks22
-\MPscratchCnt=\count284
+\MPscratchCnt=\count283
 \MPscratchDim=\dimen166
-\MPnumerator=\count285
-\makeMPintoPDFobject=\count286
+\MPnumerator=\count284
+\makeMPintoPDFobject=\count285
 \everyMPtoPDFconversion=\toks23
 ) (F:\MikTex\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -317,7 +313,6 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 (Files/Nomenclature.tex) [3
 
 ] (Files/Introduction.tex
-Chapter 1.
 
 LaTeX Warning: Citation `edgar2015additive' on page 1 undefined on input line 6
 .
@@ -326,79 +321,54 @@ LaTeX Warning: Citation `edgar2015additive' on page 1 undefined on input line 6
 LaTeX Warning: Citation `edgar2015additive' on page 1 undefined on input line 1
 4.
 
-[1
+) [1
 
 
 
+] (Files/Chapter2.tex
 
-]) [2] (Files/Chapter2.tex
-Chapter 2.
-
-LaTeX Warning: Citation `edgar2015additive' on page 3 undefined on input line 7
+LaTeX Warning: Citation `edgar2015additive' on page 2 undefined on input line 7
 .
 
 
-LaTeX Warning: Citation `classnotes' on page 3 undefined on input line 9.
-
-[3
+LaTeX Warning: Citation `classnotes' on page 2 undefined on input line 9.
 
 
-]
-
-LaTeX Warning: Citation `edgar2015additive' on page 4 undefined on input line 2
+LaTeX Warning: Citation `edgar2015additive' on page 2 undefined on input line 2
 1.
 
-[4] [5]
+[2
 
-LaTeX Warning: Citation `classnotes' on page 6 undefined on input line 68.
+] [3]
 
-) [6] (Files/Chapter3.tex
-Chapter 3.
+LaTeX Warning: Citation `classnotes' on page 4 undefined on input line 68.
 
-LaTeX Warning: Reference `fig:3dscan' on page 7 undefined on input line 7.
-
-<Figures/Figure.jpeg, id=39, 963.6pt x 1284.8pt>
+) [4] (Files/Chapter3.tex
+<Figures/Figure.jpeg, id=33, 963.6pt x 1284.8pt>
 File: Figures/Figure.jpeg Graphic file (type jpg)
 <use Figures/Figure.jpeg>
 Package pdftex.def Info: Figures/Figure.jpeg  used on input line 13.
 (pdftex.def)             Requested size: 182.09485pt x 242.78143pt.
+ [5
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[7
-
-
-]
-
-LaTeX Warning: Reference `fig:scanning' on page 8 undefined on input line 20.
-
-<Figures/Figure 2.jpeg, id=43, 963.6pt x 1284.8pt>
+ <./Figures/Figure.jpeg>]
+<Figures/Figure 2.jpeg, id=37, 963.6pt x 1284.8pt>
 File: Figures/Figure 2.jpeg Graphic file (type jpg)
 <use Figures/Figure 2.jpeg>
 Package pdftex.def Info: Figures/Figure 2.jpeg  used on input line 31.
 (pdftex.def)             Requested size: 182.09485pt x 242.78143pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-) [8 <./Figures/Figure.jpeg>] [9 <./Figures/Figure 2.jpeg>] (Files/Chapter4.tex
-Chapter 4.
-
-LaTeX Warning: Reference `fig:scanned' on page 10 undefined on input line 4.
-
-<Figures/Figure 1.jpeg, id=51, 1284.8pt x 737.75626pt>
+) [6 <./Figures/Figure 2.jpeg>] (Files/Chapter4.tex
+<Figures/Figure 1.jpeg, id=41, 1284.8pt x 737.75626pt>
 File: Figures/Figure 1.jpeg Graphic file (type jpg)
 <use Figures/Figure 1.jpeg>
 Package pdftex.def Info: Figures/Figure 1.jpeg  used on input line 8.
 (pdftex.def)             Requested size: 291.35593pt x 167.29382pt.
-
-LaTeX Warning: Reference `fig:result' on page 10 undefined on input line 13.
-
-<Figures/Result0.jpg, id=52, 4015.0pt x 3011.25pt>
+<Figures/Result0.jpg, id=42, 4015.0pt x 3011.25pt>
 File: Figures/Result0.jpg Graphic file (type jpg)
 <use Figures/Result0.jpg>
 Package pdftex.def Info: Figures/Result0.jpg  used on input line 16.
 (pdftex.def)             Requested size: 170.71652pt x 128.0109pt.
-<Figures/Result1.jpg, id=53, 4015.0pt x 3011.25pt>
+<Figures/Result1.jpg, id=43, 4015.0pt x 3011.25pt>
 File: Figures/Result1.jpg Graphic file (type jpg)
 <use Figures/Result1.jpg>
 Package pdftex.def Info: Figures/Result1.jpg  used on input line 18.
@@ -407,40 +377,36 @@ Package pdftex.def Info: Figures/Result1.jpg  used on input line 18.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[10
+[7
 
+ <./Figures/Figure 1.jpeg>] [8 <./Figures/Result0.jpg> <./Figures/Result1.jpg>]
+ (Files/Chapter5.tex) [9
 
- <./Figures/Figure 1.jpeg>] [11 <./Figures/Result0.jpg> <./Figures/Result1.jpg>
-] (Files/Chapter5.tex
-Chapter 5.
-[12
-
-
-]) [13]
+]
 No file Main_file.bbl.
+
+LaTeX Warning: Citation `Lun01' undefined on input line 155.
+
 (Main_file.aux)
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 4449 strings out of 478927
- 68547 string characters out of 2869020
- 364143 words of memory out of 3000000
- 22241 multiletter control sequences out of 15000+600000
- 411789 words of font info for 57 fonts, out of 8000000 for 9000
+ 4424 strings out of 478927
+ 68228 string characters out of 2869020
+ 363803 words of memory out of 3000000
+ 22216 multiletter control sequences out of 15000+600000
+ 411183 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,11n,79p,391b,407s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\earls\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1200.pk><F:/MikTex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><F:/MikTex/fonts/t
 ype1/public/amsfonts/cm/cmr10.pfb><F:/MikTex/fonts/type1/public/amsfonts/cm/cmr
 12.pfb><F:/MikTex/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Main_file.pdf (17 pages, 1399600 bytes).
+Output written on Main_file.pdf (13 pages, 1397205 bytes).
 PDF statistics:
- 88 PDF objects out of 1000 (max. 8388607)
+ 76 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 

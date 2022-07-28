@@ -2,20 +2,20 @@
 \contentsline {section}{List of Figures}{II}{}%
 \contentsline {section}{List of Abbreviations}{III}{}%
 \contentsline {paragraph}{Nomenclature}{III}{}%
-\contentsline {chapter}{\numberline {1}Introduction}{1}{}%
-\contentsline {section}{\numberline {1.1}Additive Manufacturing}{1}{}%
-\contentsline {section}{\numberline {1.2}Objectives}{2}{}%
-\contentsline {chapter}{\numberline {2}Literature Review}{3}{}%
-\contentsline {section}{\numberline {2.1}Additive Manufacturing}{3}{}%
-\contentsline {section}{\numberline {2.2}Technologies Associated with AM}{4}{}%
-\contentsline {subsection}{\numberline {2.2.1}Reverse Engineering Technology}{4}{}%
-\contentsline {subsection}{\numberline {2.2.2}Computer Aided Engineering}{4}{}%
-\contentsline {subsection}{\numberline {2.2.3}Heptic Based CAD}{5}{}%
-\contentsline {section}{\numberline {2.3}Classification of AM Processes}{5}{}%
-\contentsline {chapter}{\numberline {3}Methodology}{7}{}%
-\contentsline {section}{\numberline {3.1}Equipment}{7}{}%
-\contentsline {section}{\numberline {3.2}Procedure}{8}{}%
-\contentsline {chapter}{\numberline {4}Results}{10}{}%
-\contentsline {section}{\numberline {4.1}3D Scanning}{10}{}%
-\contentsline {chapter}{\numberline {5}Discussion}{12}{}%
-\contentsline {section}{\numberline {5.1}3D Scanning}{12}{}%
+\contentsline {section}{\numberline {1}Introduction}{1}{}%
+\contentsline {subsection}{\numberline {1.1}Additive Manufacturing}{1}{}%
+\contentsline {subsection}{\numberline {1.2}Objectives}{1}{}%
+\contentsline {section}{\numberline {2}Literature Review}{2}{}%
+\contentsline {subsection}{\numberline {2.1}Additive Manufacturing}{2}{}%
+\contentsline {subsection}{\numberline {2.2}Technologies Associated with AM}{2}{}%
+\contentsline {subsubsection}{\numberline {2.2.1}Reverse Engineering Technology}{3}{}%
+\contentsline {subsubsection}{\numberline {2.2.2}Computer Aided Engineering}{3}{}%
+\contentsline {subsubsection}{\numberline {2.2.3}Heptic Based CAD}{3}{}%
+\contentsline {subsection}{\numberline {2.3}Classification of AM Processes}{4}{}%
+\contentsline {section}{\numberline {3}Methodology}{5}{}%
+\contentsline {subsection}{\numberline {3.1}Equipment}{5}{}%
+\contentsline {subsection}{\numberline {3.2}Procedure}{6}{}%
+\contentsline {section}{\numberline {4}Results}{7}{}%
+\contentsline {subsection}{\numberline {4.1}3D Scanning}{7}{}%
+\contentsline {section}{\numberline {5}Discussion}{9}{}%
+\contentsline {subsection}{\numberline {5.1}3D Scanning}{9}{}%
