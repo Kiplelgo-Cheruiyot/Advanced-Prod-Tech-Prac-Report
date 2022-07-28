@@ -1,11 +1,6 @@
-\addvspace {10\p@ }
-\addvspace {10\p@ }
-\addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1.1}{\ignorespaces Complex Workpiece\relax }}{8}{}%
-\contentsline {figure}{\numberline {3.2.1}{\ignorespaces Scanning}}{9}{}%
-\addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1.1}{\ignorespaces Scanned 3D model}}{10}{}%
-\contentsline {figure}{\numberline {4.1.2}{\ignorespaces Reverse-engineered 3D Print\relax }}{11}{}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {\centering Isometric View}}}{11}{}%
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {\centering Top View}}}{11}{}%
-\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Complex Workpiece\relax }}{5}{figure.caption.2}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Scanning}}{6}{figure.caption.3}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Scanned 3D model}}{7}{figure.caption.4}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Reverse-engineered 3D Print\relax }}{7}{figure.caption.5}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {\centering Isometric View}}}{7}{subfigure.2.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {\centering Top View}}}{7}{subfigure.2.2}%
